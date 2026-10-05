@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:24.49,00:00:27.97,Default,,0,0,0,,Doctor Black Diamond System Has Crashed
+Dialogue: 0,00:00:24.49,00:00:27.97,Default,,0,0,0,,Doctor Heizuan System Has Crashed
 Dialogue: 0,00:00:29.57,00:00:31.73,Default,,0,0,0,,Very heavy
 Dialogue: 0,00:00:32.61,00:00:33.77,Default,,0,0,0,,Bulei
 Dialogue: 0,00:00:34.49,00:00:35.53,Default,,0,0,0,,In Doctor
