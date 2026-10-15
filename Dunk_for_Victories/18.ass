@@ -25,10 +25,10 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:17.32,0:00:21.32,Default,,0,0,0,,In the previous episode, Team Defenders built up a massive lead over Team Lion Heart,
 Dialogue: 0,0:00:21.72,0:00:23.80,Default,,0,0,0,,and Team Lion Heart’s flaws are gradually being exposed.
 Dialogue: 0,0:00:23.80,0:00:27.80,Default,,0,0,0,,Captain Lion Jay felt a huge crisis and was constantly battling his inner thoughts.
-Dialogue: 0,0:00:28.28,0:00:31.00,Default,,0,0,0,,But when Lion Jay sheds his idol persona,
-Dialogue: 0,0:00:31.00,0:00:33.24,Default,,0,0,0,,…his true power is breathtaking.
+Dialogue: 0,0:00:28.28,0:00:31.00,Default,,0,0,0,,But when Lion Jay shed his idol persona,
+Dialogue: 0,0:00:31.00,0:00:33.24,Default,,0,0,0,,his true power was breathtaking.
 Dialogue: 0,0:00:33.40,0:00:36.68,Default,,0,0,0,,How will Team Goats protect their lead?
-Dialogue: 0,0:00:49.32,0:00:49.96,Default,,0,0,0,,Here!
+Dialogue: 0,0:00:49.32,0:00:49.96,Default,,0,0,0,,Catch!
 Dialogue: 0,0:01:12.52,0:01:13.48,Default,,0,0,0,,I can’t see the ball!
 Dialogue: 0,0:01:31.96,0:01:32.68,Default,,0,0,0,,Catch!
 Dialogue: 0,0:01:51.24,0:01:51.80,Default,,0,0,0,,Nice!
@@ -76,9 +76,9 @@ Dialogue: 0,0:05:25.96,0:05:29.31,Default,,0,0,0,,Yeah, we should be cheering fo
 Dialogue: 0,0:05:29.31,0:05:32.12,Default,,0,0,0,,We should back the real Lion Jay!
 Dialogue: 0,0:05:32.60,0:05:35.24,Default,,0,0,0,,Come on, let’s hear it for Lion Jay one more time!
 Dialogue: 0,0:05:36.28,0:05:41.64,Default,,0,0,0,,—Lion Jay, Lion Jay!　—Cool guy of the Milky Way!
-Dialogue: 0,0:05:42.12,0:05:47.64,Default,,0,0,0,,Lion Jay, Lion Jay, cool guy of the Milky Way! Lion Jay, Lion Jay, my number one every day!
+Dialogue: 0,0:05:42.12,0:05:47.64,Default,,0,0,0,,Lion Jay, Lion Jay, cool guy of the Milky Way!\NLion Jay, Lion Jay, my number one every day!
 Dialogue: 0,0:05:48.04,0:05:51.56,Default,,0,0,0,,Was I being too selfish?
-Dialogue: 0,0:05:52.20,0:05:58.76,Default,,0,0,0,,Lion Jay, Lion Jay, cool guy of the Milky Way! Lion Jay, Lion Jay, my number one every day!
+Dialogue: 0,0:05:52.20,0:05:58.76,Default,,0,0,0,,Lion Jay, Lion Jay, cool guy of the Milky Way!\NLion Jay, Lion Jay, my number one every day!
 Dialogue: 0,0:06:14.44,0:06:16.68,Default,,0,0,0,,They’re closing the gap!
 Dialogue: 0,0:06:23.40,0:06:24.51,Default,,0,0,0,,Watch out!
 Dialogue: 0,0:06:53.96,0:06:55.80,Default,,0,0,0,,This is Lion Jay going completely all out!
@@ -89,7 +89,7 @@ Dialogue: 0,0:07:10.68,0:07:13.48,Default,,0,0,0,,It’s so good to see him fina
 Dialogue: 0,0:07:15.96,0:07:19.00,Default,,0,0,0,,So you see, looking cool isn’t what matters on the court.
 Dialogue: 0,0:07:19.32,0:07:21.88,Default,,0,0,0,,Fundamentals are everything.
 Dialogue: 0,0:07:22.44,0:07:23.80,Default,,0,0,0,,I want to prove myself…
-Dialogue: 0,0:07:24.92,0:07:25.96,Default,,0,0,0,,and that my game…
+Dialogue: 0,0:07:24.92,0:07:25.96,Default,,0,0,0,,and that my basketball…
 Dialogue: 0,0:07:27.32,0:07:29.08,Default,,0,0,0,,isn’t just all hype.
 Dialogue: 0,0:07:32.04,0:07:33.08,Default,,0,0,0,,Me too.
 Dialogue: 0,0:07:35.40,0:07:38.20,Default,,0,0,0,,I will not lose to you.
@@ -125,7 +125,8 @@ Dialogue: 0,0:10:36.92,0:10:38.76,Default,,0,0,0,,Get back on D! Hurry, hustle b
 Dialogue: 0,0:10:38.76,0:10:41.16,Default,,0,0,0,,Team Defenders is scrambling into secondary transition defense.
 Dialogue: 0,0:10:41.16,0:10:43.32,Default,,0,0,0,,Can they stop Lion Jay?
 Dialogue: 0,0:10:43.32,0:10:47.08,Default,,0,0,0,,This could be Team Lion Heart’s final possession.
-Dialogue: 0,0:10:47.08,0:10:55.08,Default,,0,0,0,,Lion Jay!
+Dialogue: 0,0:10:47.08,0:10:48.52,Default,,0,0,0,,Time…
+Dialogue: 0,0:10:49.72,0:10:56.31,Default,,0,0,0,,Lion Jay!
 Dialogue: 0,0:10:56.31,0:10:58.75,Default,,0,0,0,,Take the shot, Lion Jay!
 Dialogue: 0,0:10:58.75,0:11:01.48,Default,,0,0,0,,Lion Jay!
 Dialogue: 0,0:11:05.08,0:11:09.00,Default,,0,0,0,,Lion Jay, Lion Jay!
